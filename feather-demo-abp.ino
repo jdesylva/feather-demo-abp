@@ -1,6 +1,6 @@
 /**
  * Example of ABP device
- * Authors: 
+ * Authors:  
  *        Ivan Moreno
  *        Eduardo Contreras
  *  June 2019
