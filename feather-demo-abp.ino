@@ -11,7 +11,7 @@
  * Distributed as-is; no warranty is given.
  */
 #include <lorawan.h>
-
+ 
 //ABP Credentials 
 const char *devAddr = "0017d1bd";
 const char *nwkSKey = "15ba0113b92f5cc818e075034d93cda5";
